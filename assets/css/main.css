@@ -76,6 +76,7 @@ table,
 td {
 	border: 1px solid #333;
 	text-align: center;
+	color : #000000;
 }
 
 thead,
@@ -166,7 +167,7 @@ tfoot {
 	}
 
 	a {
-		color: #d52349;
+		color: rgb(116, 208, 241);
 		text-decoration: underline;
 	}
 
@@ -2136,7 +2137,7 @@ tfoot {
 				}
 
 				#nav > ul > li.current > a {
-					background: rgb(116, 208, 241);;
+					background: rgb(116, 208, 241);
 					color: #fff !important;
 					font-weight: 700;
 				}
