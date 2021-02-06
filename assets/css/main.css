@@ -1934,7 +1934,7 @@ tfoot {
 				height: 3em;
 				text-align: center;
 				border-radius: 5px;
-				background: #888;
+				background: rgb(116, 208, 241);
 				-moz-transition: background-color .25s ease-in-out;
 				-webkit-transition: background-color .25s ease-in-out;
 				-ms-transition: background-color .25s ease-in-out;
@@ -1954,6 +1954,8 @@ tfoot {
 					ul.social li a.fa-facebook:hover {
 						background: #4c6aa8;
 					}
+
+	
 
 				ul.social li a.fa-twitter {
 					background: #2daae4;
@@ -2069,11 +2071,11 @@ tfoot {
 				}
 
 			.icon.featured.alt2 {
-				background-color: #827a7c;
+				background-color: rgb(116, 208, 241);
 			}
 
 				.icon.featured.alt2:after {
-					border-top-color: #827a7c;
+					border-top-color: rgb(116, 208, 241);
 				}
 
 /* Page Wrapper */
@@ -2911,3 +2913,5 @@ tfoot {
 			}
 
 	}
+
+	
